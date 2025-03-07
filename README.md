@@ -1,11 +1,9 @@
 # Text2Doc: SMS to Google Docs Automation
 
-Save text messages as notes in a Google Doc with this automated note-taking app. It organizes your notes into separate lists in Google Docs by hashtag.
-
-![Image](https://github.com/user-attachments/assets/92b29074-c314-4200-b485-28a0913b354e)
-
 ## Overview
 Text2Doc is an automation workflow that enables seamless storage of SMS messages into Google Docs. The process involves receiving text messages via Twilio, forwarding the message payload through a webhook to a Google Apps Script, and systematically storing and organizing the data in Google Sheets and Google Docs.
+
+![Image](https://github.com/user-attachments/assets/92b29074-c314-4200-b485-28a0913b354e)
 
 ## Workflow
 1. **Receive SMS via Twilio**: A Twilio phone number is set up to receive text messages.
