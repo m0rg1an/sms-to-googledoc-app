@@ -5,6 +5,8 @@ Text2Doc is an automation workflow that enables seamless storage of SMS messages
 
 ![Image](https://github.com/user-attachments/assets/92b29074-c314-4200-b485-28a0913b354e)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lbLYzS6ZJtU/0.jpg)](https://www.youtube.com/watch?v=lbLYzS6ZJtU)
+
 ## Workflow
 1. **Receive SMS via Twilio**: A Twilio phone number is set up to receive text messages.
 2. **Trigger Webhook**: Twilio forwards the message payload to a configured webhook.
